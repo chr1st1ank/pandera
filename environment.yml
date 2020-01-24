@@ -28,6 +28,7 @@ dependencies:
   # pandera dependencies
   - numpy
   - pandas
+  - pyyaml
   - scipy
   - wrapt
 
